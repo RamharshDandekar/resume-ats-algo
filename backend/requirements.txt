@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pymongo
+python-multipart
+PyPDF2
+python-docx
+spacy
+dateparser
+pytest
+pytest-asyncio
+httpx
+python-dotenv
